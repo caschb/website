@@ -1,5 +1,6 @@
 #+TITLE: My website
 #+AUTHOR: Asch
+#+LANGUAGE: en
 * This is a test
 
 I am testing my script.

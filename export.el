@@ -18,6 +18,7 @@
 	     :sitemap-filename "sitemap.org"
 	     :recursive t
 	     :with-toc nil
+	     :section-numbers nil
 
 	     ;; HTML options
 	     :html-doctype "html5"
